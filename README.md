@@ -9,6 +9,8 @@ This projects goal was to recreate the JWLI site pictured below.
 
 ![j3](https://user-images.githubusercontent.com/88361309/164575469-bb955fb1-9626-4cf0-80ff-990b5967d907.png)
 
+![j4](https://user-images.githubusercontent.com/88361309/164576017-4f8b3e91-d707-4a83-a28a-59c4452000c3.png)
+
 
 ## How It's Made:
 
